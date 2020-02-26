@@ -1,0 +1,48 @@
+{
+    "quotes":
+[
+        {
+            "author": "JK Rowling",
+            "quote": "If you want to see the true measure of a man, watch how he treats his inferiors, not his equals."
+        },
+        {
+            "author":"Albert Einstein",
+            "quote":"The true sign of intelligence is not knowledge but imagination."
+
+        },
+        {
+            "author": "Steven Jobs",
+            "quote": "Your time on this earht is limited, don't live someone else's ;ife, live by your vision."
+        },
+        {
+            "author": "Abraham Lincoln",
+            "quote": "I never had a policty, I have tired to do my very best and every day."
+        },
+        {
+            "author": "Irving Berlin",
+            "quote": "Life is 10 percent what you make it and 90 percent how you take it."
+        },
+        {
+            "author": "Eleanor Roosevelt",
+            "quote":"The future belongs to those who believe in the beauty of their dreams"
+
+        },
+        {
+            "author": "Robert Kiyosaki",
+            "quote": "Start small and Dream Big,"
+        },
+        {
+            "author":"Socrates",
+            "quote":"I know nothing except the fact of my ignorance"
+        },
+        {
+            "author":"Mahatma Ghandi",
+            "quote":"Every home is a university and the parents are the teachers"
+        },
+        {
+            "author":"Arsitotle",
+            "quote": "Quality is not an act, it is a habit"
+        }
+    ]
+
+}
